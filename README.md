@@ -7,7 +7,7 @@ This repository serves as my portfolio, showcasing some of my projects, skills, 
 ## Projects
 Here are some highlighted projects from my portfolio:
 
-1. [Road Accident Dashboard](https://github.com/bulawow/Projects/tree/main/Excel/Road%20Accident%20Dashboard)
+1. [Road Accident Dashboard](https://github.com/bulawow/Projects/tree/main/Excel/Road%20Accident%20Dashboard) (Excel)
 
 ## Skills
 - C++
