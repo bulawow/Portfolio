@@ -22,4 +22,3 @@ Feel free to reach out to me through the following channels:
 - Email: bulawowrealone@gmail.com
 
 Thank you for visiting my portfolio! I'm excited to share my journey with you. 😊
-``````````
