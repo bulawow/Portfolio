@@ -12,6 +12,9 @@ Here are some highlighted projects from my portfolio:
     <img src = "images/road accident dashboard img.png" width="500px">
 
 ## Skills
+- Great ability to adapt to different environments
+- Fast learner
+- High discipline
 - C++
 - Python
 - Excel
