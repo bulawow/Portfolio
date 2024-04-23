@@ -1,11 +1,11 @@
 <details>
-    <summary>Portfolio w jezyku Polskim</summary>
+    <summary>Portfolio w jezyku Polskim (Kliknij)</summary>
         Narazie pusto, niedlugo bedzie uzupelnione. :)
 </details>
 
 
 <details>
-    <summary>Portfolio in English</summary>
+    <summary>Portfolio in English (Click)</summary>
     
 # Welcome to my Portfolio!
 
